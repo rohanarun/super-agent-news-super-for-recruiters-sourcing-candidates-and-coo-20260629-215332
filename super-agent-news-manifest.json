@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[glozo.com](https://www.glozo.com/blog/gemini-for-recruiters)",
+    "[forbes.com](https://www.forbes.com/sites/technology/2026/06/27/gemini-35-flash-computer-use-everything-we-know-so-far/)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=2.3 lines @1120px; bento_density=grid-auto-flow:dense; label_sweep=ok; button_contrast=black/white pass",
+  "generated_at": "2026-06-29T21:53:39.188118+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who source candidates and coordinate interviews. It ties current market evidence \u2014 especially the rise of computer\u2011using AI agents like Gemini 3.5 Flash \u2014 to recruiter pain points, then positions Super as the sharper alternative for repeated sourcing, scheduling, and follow\u2011up workflows thanks to its reusable computer\u2011use cache."
+}
